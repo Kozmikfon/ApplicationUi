@@ -8,7 +8,7 @@ const Travel = () => {
     <SafeAreaView style={Style.backgrounnnf}>
       <View style={Style.iconsBar}>
         <View style={Style.textBar}>
-          <Text style={Style.textHi}>Hi, Mahmut</Text>
+          <Text style={Style.textHi}>Hi Mahmut</Text>
           <Image style={Style.textİcon} source={Icons.world} />
         </View>
         <Image style={Style.iconUsers} source={Icons.user} />
@@ -18,7 +18,7 @@ const Travel = () => {
 
       <View style={Style.searchAlani}>
         <View style={Style.searchBar}>
-          <Text style={Style.search}> Search places</Text>
+          <Text style={Style.search}> Search place</Text>
           <Text style={Style.textsembol}> | </Text>
         </View>
         <Image style={Style.iconSearch} source={Icons.settings}></Image>

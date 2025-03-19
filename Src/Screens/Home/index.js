@@ -20,7 +20,7 @@ const Home = ({navigation}) => {
         <Text style={[Style.point, {marginRight: 15}]}>•••</Text>
       </View>
       <View style={Style.contain}>
-        <Text style={Style.secondtitle}> Sign in! </Text>
+        <Text style={Style.secondtitle}> Sign in </Text>
       </View>
 
       <View style={Style.buttomscreen}>
